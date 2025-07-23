@@ -72,16 +72,6 @@ Follow the GUI instructions to select HTML files and output options. | اتبع 
 
 ---
 
-## Author | المؤلف
-- [اسمك هنا | Your Name Here]
-
----
-
-## License | الرخصة
-MIT 
-
----
-
 ## Screenshots | لقطات الشاشة
 
 **Main Interface | الواجهة الرئيسية**
@@ -91,5 +81,15 @@ MIT
 **Extraction Log Example | مثال على سجل الاستخراج**
 
 ![Extraction Log](Screenshot_20250724_020711.png)
+
+---
+
+## Author | المؤلف
+- Mohammed
+
+---
+
+## License | الرخصة
+MIT 
 
 --- 
