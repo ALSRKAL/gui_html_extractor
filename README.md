@@ -53,6 +53,45 @@ pip install libsass
 
 ---
 
+## 🚀 Quick Start | البدء السريع
+
+### On Linux | على لينكس
+1. افتح الطرفية (Terminal).
+2. تأكد من وجود بايثون 3:
+   ```bash
+   python3 --version
+   ```
+   إذا لم يكن مثبتًا، ثبته عبر:
+   ```bash
+   sudo apt update && sudo apt install python3 python3-pip
+   ```
+3. ثبّت المتطلبات:
+   ```bash
+   pip3 install -r requirements.txt
+   ```
+4. شغّل البرنامج:
+   ```bash
+   python3 gui_html_extractor.py
+   ```
+
+### On Windows | على ويندوز
+1. افتح موجه الأوامر (Command Prompt).
+2. تأكد من وجود بايثون:
+   ```cmd
+   python --version
+   ```
+   إذا لم يكن مثبتًا، نزّل بايثون من [python.org](https://www.python.org/downloads/) وثبته.
+3. ثبّت المتطلبات:
+   ```cmd
+   pip install -r requirements.txt
+   ```
+4. شغّل البرنامج:
+   ```cmd
+   python gui_html_extractor.py
+   ```
+
+---
+
 ## Usage | طريقة الاستخدام
 
 Run the application: | شغل التطبيق:
