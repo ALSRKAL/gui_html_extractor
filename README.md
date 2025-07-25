@@ -1,16 +1,6 @@
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
----
 
-## GitHub Usage | استخدام جيت هب
-
-- Fork or clone this repository to your machine.
-- Submit issues or pull requests for improvements.
-
-- قم بعمل fork أو clone لهذا المستودع على جهازك.
-- أرسل المشاكل أو طلبات السحب لأي تحسينات.
-
----
 
 # HTML JS/CSS/Sass Extractor GUI
 
